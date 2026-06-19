@@ -1,0 +1,22 @@
+version: 1
+project:
+  title: Quant Codex
+  authors:
+    - name: Alejandro Moreno
+      email: alejandro@example.com
+  github: alejandro/Quant-Codex
+  toc:
+    - file: content/intro.md
+    - title: Fundamentos Matemáticos
+      children:
+        - file: content/01_maths/stochastic_calculus.md
+    - title: Valoración de Activos
+      children:
+        - file: content/02_asset_pricing/black_scholes.md
+    - title: Gestión de Portafolios
+      children:
+        - file: content/03_portfolio/risk_parity.md
+site:
+  options:
+    folders: true
+  template: book-theme
