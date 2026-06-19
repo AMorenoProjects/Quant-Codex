@@ -74,4 +74,4 @@ Para mantener al día el Codex, el flujo de trabajo recomendado es:
 4. Un simple `git push` actualizará la web pública automáticamente en menos de un minuto.
 
 ---
-*Desarrollado y mantenido por [Alejandro Moreno](https://github.com/alejandro).*
+*Desarrollado y mantenido por [Alejandro Moreno](https://github.com/AMorenoProjects).*
