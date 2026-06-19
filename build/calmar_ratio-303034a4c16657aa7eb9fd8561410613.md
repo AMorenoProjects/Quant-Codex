@@ -1,18 +1,4 @@
----
-title: Ratio de Calmar
-aliases:
-  - Calmar Ratio
-created: 2026-05-09
-updated: 2026-05-09
-tags:
-  - finanzas/metricas-de-riesgo
-  - trading-cuantitativo
-  - hedge-funds
-status: activo
-cssclasses:
-  - style-justify
-  - style-wide
----
+
 > [!abstract] Propósito
 > 
 > El Ratio de Calmar es una métrica de rendimiento ajustada al riesgo, fundamental en el ecosistema de hedge funds y trading cuantitativo. A diferencia de las métricas que evalúan la volatilidad general, este ratio aísla y cuantifica el peor escenario posible experimentado por una estrategia de inversión.

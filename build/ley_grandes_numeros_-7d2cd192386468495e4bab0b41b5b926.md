@@ -1,18 +1,4 @@
----
-title: Estadística Inferencial en el Trading Cuantitativo
-aliases:
-  - Fundamentos de Estadística Inferencial
-  - LLN y CLT en Finanzas
-created: 2026-05-20
-updated: 2026-05-20
-tags:
-  - matematicas/estadistica
-  - quant/trading
-status: referencia
-cssclasses:
-  - style-wide
-  - style-justify
----
+
 > [!abstract] Propósito de la nota
 > 
 > Esta sección marca el salto definitivo desde la probabilidad pura hacia la estadística inferencial aplicada. Se analiza cómo deducir las reglas y parámetros ocultos que gobiernan los mercados financieros a partir de datos empíricos mediante dos pilares matemáticos: la Ley de los Grandes Números (LLN) y el Teorema del Límite Central (CLT).

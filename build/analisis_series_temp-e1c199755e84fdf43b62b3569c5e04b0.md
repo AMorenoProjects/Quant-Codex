@@ -1,19 +1,4 @@
----
-title: Análisis de Series Temporales (TSA)
-aliases:
-  - Time Series Analysis
-  - TSA
-created: 2026-05-12
-updated: 2026-05-12
-tags:
-  - trading/cuantitativo
-  - estadistica/modelos
-  - algoritmos/prediccion
-status: activo
-cssclasses:
-  - style-wide
-  - style-justify
----
+
 > [!abstract] Resumen
 > 
 > El **Análisis de Series Temporales** (TSA) es el núcleo matemático del **Trading Cuantitativo** direccional. A diferencia de la estadística clásica estática, el TSA evalúa puntos de datos cromológicos (ej. precios o retornos tick a tick) aislando el ruido para identificar patrones matemáticos predictivos y explotables.

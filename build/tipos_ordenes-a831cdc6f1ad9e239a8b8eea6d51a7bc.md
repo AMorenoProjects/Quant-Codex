@@ -1,15 +1,4 @@
----
-title: Tipos de Ordenes de Mercado
-tags:
-  - mercados/microestructuras
-  - matematicas/estadistica
-  - finanzas/quant-trading
-aliases:
-  - OrdenesDeMercado
-cssclasses:
-  - style-justify
-  - style-wide
----
+
 > [!abstract] Propósito
 > 
 > Definición y clasificación de los mecanismos de ejecución en mercados financieros, detallando su impacto en la liquidez, el riesgo de deslizamiento (_slippage_) y la prioridad de ejecución.

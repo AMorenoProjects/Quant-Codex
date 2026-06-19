@@ -1,18 +1,4 @@
----
-title: Variables Aleatorias y Distribuciones Conjuntas
-aliases:
-  - Transformación de Variables Aleatorias
-  - Cálculo Estocástico Multidimensional
-created: 2026-05-17
-updated: 2026-05-17
-tags:
-  - matematicas/estadistica
-  - probabilidad/distribuciones
-status: activo
-cssclasses:
-  - style-wide
-  - style-justify
----
+
 # Variables Aleatorias y Distribuciones Conjuntas
 
 > [!abstract] Resumen

@@ -1,19 +1,4 @@
----
-title: Regresión Lineal y Álgebra Matricial
-aliases:
-  - Solución Cerrada OLS
-  - Ecuaciones Normales
-  - Hat Matrix
-created: 2026-05-23
-updated: 2026-05-23
-tags:
-  - machine-learning/modelos
-  - matematicas/algebra-lineal
-status: activo
-cssclasses:
-  - style-wide
-  - style-justify
----
+
 > [!abstract]
 > 
 > Define la base matemática estricta y el álgebra lineal subyacente para entrenar modelos predictivos mediante matrices en **RegresionLineal**, permitiendo encontrar los coeficientes óptimos de forma analítica.

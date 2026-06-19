@@ -1,20 +1,4 @@
----
-title: Cointegración
-aliases:
-  - Cointegration
-  - Engle-Granger
-  - Arbitraje Estadístico
-created: 2026-05-12
-updated: 2026-05-12
-tags:
-  - trading/cuantitativo
-  - estadistica/modelos
-  - algoritmos/estrategias
-status: activo
-cssclasses:
-  - style-wide
-  - style-justify
----
+
 > [!abstract] Resumen
 > 
 > La **Cointegración** es la técnica matemática fundacional del arbitraje estadístico en el **Trading Cuantitativo**. Resuelve la no estacionariedad de los precios absolutos combinando dos o más series temporales divergentes en una única serie sintética estacionaria, permitiendo la aplicación predecible de modelos de **Reversión a la Media**.

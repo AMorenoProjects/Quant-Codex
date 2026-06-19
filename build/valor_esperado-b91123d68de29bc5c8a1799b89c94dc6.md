@@ -1,19 +1,4 @@
----
-title: Esperanza Matemática y Valor Esperado en Finanzas Cuantitativas
-aliases:
-  - Expected Value
-  - Valor Esperado
-  - E[X]
-created: 2026-05-16
-updated: 2026-05-16
-tags:
-  - matematicas/probabilidad
-  - finanzas/quant
-status: activo
-cssclasses:
-  - style-wide
-  - style-justify
----
+
 > [!abstract] Propósito
 > 
 > Documentar el concepto de Esperanza Matemática ($E[X]$) y su aplicación en la toma de decisiones algorítmicas y la fijación de precios de derivados en finanzas cuantitativas. Constituye el fundamento matemático para evaluar la rentabilidad teórica a largo plazo de estrategias e instrumentos financieros.

@@ -1,19 +1,4 @@
----
-title: Cálculo Estocástico
-aliases:
-  - Stochastic Calculus
-  - Movimiento Browniano
-  - Lema de Itô
-created: 2026-05-27
-updated: 2026-05-27
-tags:
-  - matematicas/calculo
-  - finanzas/cuantitativas
-status: activo
-cssclasses:
-  - style-justify
-  - style-wide
----
+
 > [!abstract] Propósito
 > 
 > El cálculo estocástico es la rama de las matemáticas diseñada para modelar sistemas que cambian con el tiempo sujetos a una aleatoriedad continua. Mientras el cálculo tradicional de Newton y Leibniz predice trayectorias exactas en el vacío, el cálculo estocástico modela el caos, como una partícula en un fluido hirviendo o el precio de un activo en los mercados financieros.

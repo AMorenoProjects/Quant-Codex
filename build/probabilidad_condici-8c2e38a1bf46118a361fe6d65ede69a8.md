@@ -1,18 +1,4 @@
----
-title: Probabilidad Condicional en Trading
-aliases:
-  - Teorema de Bayes Básico
-  - Probabilidad de Señales
-created: 2026-05-11
-updated: 2026-05-11
-tags:
-  - estadistica/probabilidad
-  - trading/cuantitativo
-status: activo
-cssclasses:
-  - style-wide
-  - style-justify
----
+
 > [!abstract] Propósito
 > 
 > La probabilidad condicional permite cuantificar la ventaja estadística (edge) de una señal o indicador, evaluando la probabilidad de un evento (ej. subida del precio) sabiendo que otro evento previo (ej. cruce de medias) ya ha ocurrido. Se pasa de operar con probabilidades absolutas a probabilidades filtradas por condiciones de mercado.

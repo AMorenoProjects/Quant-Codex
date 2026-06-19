@@ -1,18 +1,4 @@
----
-title: Intervalos de Confianza en el Trading Cuantitativo
-aliases:
-  - Estimación Asintótica e Intervalos de Confianza
-  - Intervalos de Confianza y Teorema de Slutsky
-created: 2026-05-20
-updated: 2026-05-20
-tags:
-  - matematicas/estadistica
-  - quant/trading
-status: referencia
-cssclasses:
-  - style-wide
-  - style-justify
----
+
 
 > [!abstract] Propósito de la nota
 > 

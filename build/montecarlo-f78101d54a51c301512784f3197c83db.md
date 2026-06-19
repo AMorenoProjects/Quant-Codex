@@ -1,18 +1,4 @@
----
-title: Simulación de Montecarlo
-aliases:
-  - Monte Carlo Simulation
-  - Método de Montecarlo
-created: 2026-05-07
-updated: 2026-05-07
-tags:
-  - matematicas/estadistica
-  - gestion/riesgos
-status: referencia
-cssclasses:
-  - style-wide
-  - style-justify
----
+
 
 # Simulación de Montecarlo
 

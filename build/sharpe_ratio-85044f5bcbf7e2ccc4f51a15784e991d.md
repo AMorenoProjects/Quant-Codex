@@ -1,19 +1,4 @@
----
-title: Ratio Sharpe
-aliases:
-  - Sharpe Ratio
-  - Rendimiento Ajustado al Riesgo
-created: 2026-05-07
-updated: 2026-05-07
-tags:
-  - finanzas/quant-trading
-  - metricas/riesgo
-  - evaluacion/sistemas
-status: referencia
-cssclasses:
-  - style-wide
-  - style-justify
----
+
 > [!abstract] Definición
 > 
 > El **Ratio Sharpe** es la métrica estándar en finanzas cuantitativas para evaluar el rendimiento ajustado al riesgo. Cuantifica el exceso de rentabilidad generado por una estrategia de trading o portafolio de inversión por cada unidad de volatilidad (riesgo) asumida.

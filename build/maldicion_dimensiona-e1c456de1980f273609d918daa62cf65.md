@@ -1,18 +1,4 @@
----
-title: La Maldición de la Dimensionalidad
-aliases:
-  - Curse of Dimensionality
-  - Colapso del Hiperespacio
-created: 2026-05-22
-updated: 2026-05-22
-tags:
-  - machine-learning/teoria
-  - estadistica/geometria
-status: activo
-cssclasses:
-  - style-wide
-  - style-justify
----
+
 > [!abstract] Resumen
 > 
 > Fenómeno geométrico y estadístico donde el aumento de variables (_features_) provoca un crecimiento exponencial del volumen del hiperespacio. Esto genera una dispersión extrema de los datos (_sparsity_), invalidando las métricas de distancia local y provocando el colapso de algoritmos no paramétricos como [KNN](../ml/modelos_lineales_knn.md), mientras que los modelos estructurados globales como **RegresionLineal** exhiben una mayor resiliencia.
