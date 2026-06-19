@@ -1,8 +1,4 @@
----
-status: activo
-contenido_clave: ""
-consulta: ""
----
+
 
 -> **0. Índice RAG (Retrieval-Augmented Generation)**
 

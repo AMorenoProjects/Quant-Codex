@@ -1,19 +1,4 @@
----
-title: Covarianza y Correlación
-aliases:
-  - Covariance and Correlation
-  - Métricas de Relación Lineal
-created: 2026-05-19
-updated: 2026-05-19
-tags:
-  - estadistica/probabilidad
-  - finanzas/trading-cuantitativo
-  - matematicas/algebra
-status: activo
-cssclasses:
-  - style-justify
-  - style-wide
----
+
 > [!abstract] Propósito
 > 
 > La Covarianza y la Correlación son herramientas estadísticas fundamentales para medir la relación entre dos variables. En el contexto de trading cuantitativo, permiten calcular el riesgo de una cartera, identificar relaciones inversas como coberturas y construir algoritmos de arbitraje.

@@ -1,14 +1,4 @@
----
-title: Libro de Ordenes Centralizado
-aliases:
-  - Libro Centralizado
-tags:
-  - mercados/libroDeOrdenes
-  - matematicas/estadistica
-cssclasses:
-  - style-justify
-  - style-wide
----
+
 El **Libro de Órdenes** (o _Limit Order Book_ - LOB) es el registro electrónico en tiempo real de todas las órdenes de compra y venta pendientes para un activo financiero en un exchange. Es la base de la microestructura del mercado y donde se determina el precio de forma dinámica.
 
 ### Estructura Fundamental

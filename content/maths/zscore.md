@@ -1,19 +1,4 @@
----
-title: Reversión a la Media y Z-Score
-aliases:
-  - Mean Reversion
-  - Z-Score
-created: 2026-05-12
-updated: 2026-05-12
-tags:
-  - trading/cuantitativo
-  - estadistica/modelos
-  - algoritmos/estrategias
-status: activo
-cssclasses:
-  - style-wide
-  - style-justify
----
+
 > [!abstract] Resumen
 > 
 > La **Reversión a la Media** (Mean Reversion) es una premisa financiera y matemática que postula que los precios y retornos de un activo tienden a volver a su promedio histórico a lo largo del tiempo. Las desviaciones extremas se consideran anomalías temporales explotables en el **Trading Cuantitativo**.

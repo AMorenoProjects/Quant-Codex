@@ -1,10 +1,3 @@
-# Bienvenido a Quant Codex 📔
-
-`Quant Codex` es una base de conocimientos interactiva, un libro digital y un portafolio de estudio dedicado a las **Finanzas Cuantitativas**. Este proyecto compila teoría rigurosa, modelos matemáticos avanzados y su correspondiente implementación en Python.
-
-El objetivo principal es servir de puente entre la teoría matemática y estadística abstracta, y el desarrollo de sistemas prácticos de trading y gestión de riesgos.
-
----
 
 ```{admonition} ¿Qué encontrarás en este Codex?
 :class: tip

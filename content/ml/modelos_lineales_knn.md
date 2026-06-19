@@ -1,20 +1,4 @@
----
-title: Modelos Lineales vs k-Nearest Neighbors
-aliases:
-  - Modelos Lineales vs k-NN
-  - The Elements of Statistical Learning
-  - Bias-Variance Tradeoff
-created: 2026-05-21
-updated: 2026-05-21
-tags:
-  - machine-learning/algoritmos
-  - estadistica/modelos
-  - analisis-cuantitativo
-status: activo
-cssclasses:
-  - style-wide
-  - style-justify
----
+
 # Modelos Lineales vs k-Nearest Neighbors
 
 > [!abstract] Propósito

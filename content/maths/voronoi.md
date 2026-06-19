@@ -1,18 +1,4 @@
----
-title: Teselación de Voronoi
-aliases:
-  - Diagrama de Voronoi
-  - Voronoi Tessellation
-created: 2026-05-21
-updated: 2026-05-21
-tags:
-  - matematicas/geometria
-  - machine-learning/conceptos
-status: activo
-cssclasses:
-  - style-wide
-  - style-justify
----
+
 # Teselación de Voronoi
 
 > [!abstract] Propósito 

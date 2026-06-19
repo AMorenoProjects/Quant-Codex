@@ -1,19 +1,4 @@
----
-title: Ratio Sortino
-aliases:
-  - Sortino Ratio
-  - Retorno Ajustado por Riesgo Bajista
-created: 2026-05-07
-updated: 2026-05-07
-tags:
-  - finanzas/quant-trading
-  - metricas/riesgo
-  - evaluacion/sistemas
-status: referencia
-cssclasses:
-  - style-wide
-  - style-justify
----
+
 > [!abstract] Definición
 > 
 > El **Ratio Sortino** es una evolución analítica del [Ratio Sharpe](../portfolio/sharpe_ratio.md) diseñada para medir el rendimiento ajustado al riesgo. Su diferenciador principal es que penaliza de forma exclusiva la volatilidad a la baja (el riesgo real de pérdida), omitiendo por completo las desviaciones positivas o el éxito explosivo de la estrategia.

@@ -1,18 +1,4 @@
----
-title: Drawdown en Trading Cuantitativo
-aliases:
-  - MaxDD
-  - Retroceso de Capital
-created: 2026-05-07
-updated: 2026-05-07
-tags:
-  - finanzas/quant-trading
-  - riesgo/metricas
-status: referencia
-cssclasses:
-  - style-wide
-  - style-justify
----
+
 > [!abstract] Definición
 > 
 > El **Drawdown (DD)** es la métrica que cuantifica la reducción del capital de una estrategia o portafolio desde un máximo histórico (_Peak_) hasta su punto más bajo (_Trough_) antes de alcanzar un nuevo máximo. Es el indicador principal del riesgo de pérdida latente y del impacto psicológico en la ejecución del sistema.

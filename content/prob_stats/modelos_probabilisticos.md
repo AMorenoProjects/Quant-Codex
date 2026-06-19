@@ -1,20 +1,4 @@
----
-title: Modelos Probabilísticos
-aliases:
-  - Espacio Muestral
-  - Axiomas de Kolmogórov
-  - Teoría de Probabilidades
-created: 2026-05-15
-updated: 2026-05-15
-tags:
-  - matematicas/probabilidad
-  - estadistica/fundamentos
-status: activo
-cssclasses:
-  - style-wide
-  - justified
-  - large-heading
----
+
 > [!abstract] Resumen
 > 
 > Los modelos probabilísticos son construcciones matemáticas diseñadas para analizar el comportamiento de sistemas y resolver problemas. Todo modelo de probabilidad se estructura sobre tres pilares: el **Experimento Probabilístico**, el **Espacio Muestral** y la **Ley de Probabilidad**.

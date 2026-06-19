@@ -1,13 +1,4 @@
----
-aliases:
-  - AnatomiaSistemaTrading
-tags:
-  - trading/sistemas
-  - finanzas/algoritmico
-cssclasses:
-  - style-justify
-  - style-wide
----
+
 # Introducción a los Sistemas de Trading Algorítmico
 
 > [!abstract] Propósito

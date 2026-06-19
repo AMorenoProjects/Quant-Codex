@@ -1,18 +1,4 @@
----
-title: Permutaciones y Combinaciones
-aliases:
-  - Combinatoria Básica
-  - Diferencias entre Combinaciones y Permutaciones
-created: 2026-05-11
-updated: 2026-05-11
-tags:
-  - matematicas/combinatoria
-  - estadistica/probabilidad
-status: activo
-cssclasses:
-  - style-wide
-  - style-justify
----
+
 > [!abstract] Propósito
 > 
 > Definir y estructurar la diferencia matemática entre permutaciones y combinaciones. La divergencia conceptual y de cálculo entre ambas métricas probabilísticas depende de una única restricción: **la importancia del orden de los elementos**.

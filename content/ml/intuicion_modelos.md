@@ -1,18 +1,4 @@
----
-title: Intuición de Modelos Predictivos
-aliases:
-  - Sesgo y Varianza
-  - KNN vs Regresión Lineal
-created: 2026-05-22
-updated: 2026-05-22
-tags:
-  - machine-learning/teoria
-  - modelos/evaluacion
-status: activo
-cssclasses:
-  - style-justify
-  - style-wide
----
+
 > [!abstract]
 > 
 > Análisis conceptual de las matemáticas subyacentes en la selección y evaluación de modelos predictivos. Se abandona la perspectiva puramente algebraica para abordar la intuición geométrica de los datos, redefiniendo conceptos críticos como el sesgo, la varianza y los grados de libertad mediante la comparación de los extremos algorítmicos: **RegresionLineal** y [KNN](../ml/modelos_lineales_knn.md).

@@ -1,19 +1,4 @@
----
-title: Varianza y Desviación Estándar en Trading
-aliases:
-  - Volatilidad Financiera
-  - Medición de Riesgo en Trading
-created: 2026-05-11
-updated: 2026-05-11
-tags:
-  - trading/riesgo
-  - estadistica/volatilidad
-  - finanzas/metricas
-status: activo
-cssclasses:
-  - style-justify
-  - style-wide
----
+
 > [!abstract] Propósito
 > 
 > La varianza y la desviación estándar constituyen la base matemática para la medición de la volatilidad y la gestión de riesgos en el trading. Estas métricas cuantifican la dispersión de los rendimientos de un activo respecto a su media, permitiendo evaluar el riesgo inherente a una curva de capital.

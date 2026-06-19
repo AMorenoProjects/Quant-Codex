@@ -1,19 +1,4 @@
----
-title: Distribuciones Estadísticas en Finanzas Cuantitativas
-aliases:
-  - Modelos Probabilísticos Cuantitativos
-  - CDF y PDFs
-created: 2026-05-16
-updated: 2026-05-16
-tags:
-  - finanzas/cuantitativas
-  - estadistica/distribuciones
-  - modelos/probabilidad
-status: activo
-cssclasses:
-  - style-wide
-  - style-justify
----
+
 # Distribuciones Estadísticas en Finanzas Cuantitativas
 
 > [!abstract]

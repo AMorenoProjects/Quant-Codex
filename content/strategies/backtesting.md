@@ -1,19 +1,4 @@
----
-title: Backtesting en Trading Cuantitativo
-aliases:
-  - Motor de Backtesting
-  - Simulación Histórica
-created: 2026-05-07
-updated: 2026-05-07
-tags:
-  - finanzas/quant-trading
-  - arquitectura/sistemas
-  - evaluacion/riesgo
-status: referencia
-cssclasses:
-  - style-wide
-  - style-justify
----
+
 > [!abstract] Propósito
 > 
 > El **Backtesting** es el proceso de reconstruir el comportamiento histórico de una estrategia de trading. Constituye un experimento científico riguroso diseñado para validar la existencia de una ventaja estadística (_edge_) en el mercado frente al simple ruido aleatorio.
