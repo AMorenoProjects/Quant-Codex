@@ -7,15 +7,72 @@ project:
   github: alejandro/Quant-Codex
   toc:
     - file: content/intro.md
-    - title: Fundamentos Matemáticos
+    - file: content/roadmap.md
+    - file: content/analista_financiero.md
+    
+    - title: Probabilidad y Estadística
       children:
-        - file: content/01_maths/stochastic_calculus.md
-    - title: Valoración de Activos
+        - file: content/prob_stats/fundamentos.md
+        - file: content/prob_stats/varianza_desviacion.md
+        - file: content/prob_stats/probabilidad_condicional_bayes.md
+        - file: content/prob_stats/permutaciones_combinaciones.md
+        - file: content/prob_stats/modelos_probabilisticos.md
+        - file: content/prob_stats/valor_esperado.md
+        - file: content/prob_stats/variable_aleatoria.md
+        - file: content/prob_stats/multiples_variables.md
+        - file: content/prob_stats/covarianza_correlacion.md
+        - file: content/prob_stats/ley_grandes_numeros_tlc.md
+        - file: content/prob_stats/intervalos_confianza.md
+        
+    - title: Matemáticas y Modelos Avanzados
+      children:
+        - file: content/maths/calculo_estocastico.md
+        - file: content/maths/analisis_series_temporales.md
+        - file: content/maths/cointegracion.md
+        - file: content/maths/zscore.md
+        - file: content/maths/voronoi.md
+        
+    - title: Microestructura del Mercado
+      children:
+        - file: content/microstructure/tipos_ordenes.md
+        - file: content/microstructure/libro_ordenes.md
+        - file: content/microstructure/hft.md
+        
+    - title: Valoración de Activos (Asset Pricing)
       children:
         - file: content/02_asset_pricing/black_scholes.md
-    - title: Gestión de Portafolios
+        
+    - title: Estrategias de Trading y Backtesting
       children:
+        - file: content/strategies/montecarlo.md
+        - file: content/strategies/backtesting.md
+        - file: content/strategies/pairs_trading.md
+        
+    - title: Gestión de Portafolio y Métricas
+      children:
+        - file: content/portfolio/drawdown.md
+        - file: content/portfolio/sharpe_ratio.md
+        - file: content/portfolio/sortino_ratio.md
+        - file: content/portfolio/calmar_ratio.md
         - file: content/03_portfolio/risk_parity.md
+        
+    - title: Machine Learning
+      children:
+        - file: content/ml/modelos_lineales_knn.md
+        - file: content/ml/intuicion_modelos.md
+        - file: content/ml/maldicion_dimensionalidad.md
+        - file: content/ml/regresion_lineal_algebra_matricial.md
+        
+    - title: Ejercicios Prácticos
+      children:
+        - file: content/exercises/calcula_max_drawdown.md
+        - file: content/exercises/ejercicios_basicos.md
+        - file: content/exercises/parametros_guardados.md
+        
+    - title: Papers y Literatura
+      children:
+        - file: content/papers/entrenamiento_modelos_especializados.md
+
 site:
   options:
     folders: true

@@ -23,7 +23,7 @@ Para una opción de compra europea (Call) con precio de ejercicio $K$ y fecha de
 
 $$C(S_t, t) = S_t N(d_1) - K e^{-r(T-t)} N(d_2)$$
 
-Donde $N(\cdot)$ representa la función de distribución acumulada de una variable normal estándar $\mathcal{N}(0,1)$, y los coeficientes $d_1$ y $d_2$ vienen dados por:
+Donde $N(\cdot)$ representa la función de distribución acumulada de una variable normal estándar $\mathcal{N}(0,1)$, y los coeficientes $d_1\$ y $d_2\$ vienen dados por:
 
 $$d_1 = \frac{\ln\left(\frac{S_t}{K}\right) + \left(r + \frac{\sigma^2}{2}\right)(T-t)}{\sigma\sqrt{T-t}}$$
 
