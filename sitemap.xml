@@ -5,12 +5,117 @@
     <loc>http://localhost:3000</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/content/maths/stochastic-calculus</loc>
+    <loc>http://localhost:3000/content/roadmap</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/analista-financiero</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/prob-stats/fundamentos</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/prob-stats/varianza-desviacion</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/prob-stats/probabilidad-condicional-bayes</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/prob-stats/permutaciones-combinaciones</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/prob-stats/modelos-probabilisticos</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/prob-stats/valor-esperado</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/prob-stats/variable-aleatoria</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/prob-stats/multiples-variables</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/prob-stats/covarianza-correlacion</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/prob-stats/ley-grandes-numeros-tlc</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/prob-stats/intervalos-confianza</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/maths/calculo-estocastico</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/maths/analisis-series-temporales</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/maths/cointegracion</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/maths/zscore</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/maths/voronoi</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/microstructure/tipos-ordenes</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/microstructure/libro-ordenes</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/microstructure/hft</loc>
   </url>
   <url>
     <loc>http://localhost:3000/content/asset-pricing/black-scholes</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/content/strategies/montecarlo</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/strategies/backtesting</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/strategies/pairs-trading</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/portfolio/drawdown</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/portfolio/sharpe-ratio</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/portfolio/sortino-ratio</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/portfolio/calmar-ratio</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/content/portfolio/risk-parity</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/ml/modelos-lineales-knn</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/ml/intuicion-modelos</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/ml/maldicion-dimensionalidad</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/ml/regresion-lineal-algebra-matricial</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/exercises/calcula-max-drawdown</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/exercises/ejercicios-basicos</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/exercises/parametros-guardados</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/content/papers/entrenamiento-modelos-especializados</loc>
   </url>
 </urlset>
